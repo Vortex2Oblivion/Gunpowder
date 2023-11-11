@@ -1,0 +1,14 @@
+{
+	"songs": [
+		{
+			"bpm": 182,
+			"difficulties": [
+				"Voiid"
+			],
+			"displayName": null,
+			"char": "matt-gun",
+			"name": "gunpowder",
+			"color": "#49454E"
+		}
+	]
+}

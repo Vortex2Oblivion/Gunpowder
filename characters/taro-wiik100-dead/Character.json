@@ -1,0 +1,62 @@
+{
+	"arrowColors": [
+		"#FF0000",
+		"#FF0000",
+		"#FF0000",
+		"#FF0000"
+	],
+	"camOffset": {
+		"x": -350,
+		"y": -130
+	},
+	"globalOffset": {
+		"x": -130,
+		"y": 410
+	},
+	"healthbarColor": "#F28F92",
+	"flipX": true,
+	"anims": [
+		{
+			"indices": null,
+			"x": 0,
+			"y": 0,
+			"anim": "BF dies0",
+			"loop": false,
+			"name": "firstDeath",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 1,
+			"y": -208,
+			"anim": "BF Dead Loop0",
+			"loop": false,
+			"name": "deathLoop",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 62,
+			"y": -208,
+			"anim": "BF Dead confirm0",
+			"loop": false,
+			"name": "deathConfirm",
+			"framerate": 24
+		}
+	],
+	"danceSteps": [
+		"idle"
+	],
+	"antialiasing": true,
+	"healthIconSteps": [
+		[
+			20,
+			0
+		],
+		[
+			0,
+			1
+		]
+	],
+	"scale": 1.5
+}

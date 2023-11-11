@@ -1,0 +1,82 @@
+{
+    "credits" : [
+        {
+            "name" : "Vortex",
+            "role" : "Mod maker",
+            "urls" : [
+                {
+                    "name" : "GitHub",
+                    "url" : "https://github.com/Vortex2Oblivion"
+                }
+            ]
+        },
+        {
+            "name" : "Voiid Chronicles Team",
+            "role" : "All the sprites belong to them",
+            "urls" : [
+                {
+                    "name" : "VC Website",
+                    "url" : "https://www.voiidchronicles.xyz/home"
+                },
+                {
+                    "name": "YouTube",
+                    "url": "https://www.youtube.com/channel/UCvLIlgVpzb66SrvZXtRwhig"
+                },
+                {
+                    "name" : "Discord",
+                    "url" : "https://discord.gg/qMHxvDUFQA"
+                },
+                {
+                    "name" : "Gamebanana",
+                    "url" : "https://gamebanana.com/mods/372018"
+                },
+                {
+                    "name" : "Gamejolt",
+                    "url" : "https://gamejolt.com/games/VoiidChronicles/810060"
+                }
+            ]
+        },
+        {
+            "name" : "Real_Dodo",
+            "role" : "Gunpowder cover",
+            "urls" : [
+                {
+                    "name" : "YouTube",
+                    "url" : "https://www.youtube.com/@realdodo7"
+                }
+            ]
+        },
+        {
+            "name" : "BruhMomentLilac",
+            "role" : "Original song",
+            "urls" : [
+                {
+                    "name" : "YouTube",
+                    "url" : "https://www.youtube.com/channel/UCXPsAiK14KHJWj6tbd7OqjA"
+                },
+                {
+                    "name": "Twitter",
+                    "url":"https://twitter.com/BruhMomentLilac"
+                }
+            ]
+        },
+        {
+            "name" : "ItsLjCool",
+            "role" : "Cool asset preload script",
+            "urls" : [
+                {
+                    "name" : "GitHub",
+                    "url" : "https://github.com/ItsLJcool"
+                },
+                {
+                    "name": "Twitter",
+                    "url":"https://twitter.com/ItsLJcool"
+                },
+                {
+                    "name": "YouTube",
+                    "url":"https://www.youtube.com/channel/UCHiwgCXuIj9SL0fUe-7EQ2w"
+                }
+            ]
+        }
+    ]
+}

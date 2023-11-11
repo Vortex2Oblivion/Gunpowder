@@ -1,0 +1,38 @@
+{
+	"discordRpc": null,
+	"skinnableGFs": [],
+	"downloadLink": null,
+	"locked": false,
+	"BFskins": [],
+	"keyNumbers": [
+		4
+	],
+	"name": "Gunpowder",
+	"description": "Gunpowder matt cover playable ver.\nMade during  YCE Modjam \nHappy 3rd birthday Yoshi Engine :3",
+	"intro": {
+		"authors": [
+			"ninjamuffin99",
+			"phantomArcade",
+			"kawaisprite",
+			"evilsk8er"
+		],
+		"newgrounds": "newgrounds",
+		"gameName": [
+			"Friday Night Funkin'",
+			"YoshiCrafter",
+			"Engine"
+		],
+		"assoc": [
+			"In association",
+			"with"
+		],
+		"bpm": 102,
+		"present": "present"
+	},
+	"skinnableBFs": [
+		"taro-wiik100"
+	],
+	"titleBarName": "Gunpowder",
+	"downloadLinkAlt": null,
+	"GFskins": []
+}

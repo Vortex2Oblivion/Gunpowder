@@ -1,0 +1,152 @@
+{
+	"arrowColors": [
+		"#FF0000",
+		"#FF0000",
+		"#FF0000",
+		"#FF0000"
+	],
+	"camOffset": {
+		"x": -350,
+		"y": -130
+	},
+	"globalOffset": {
+		"x": 67,
+		"y": 416
+	},
+	"healthbarColor": "#F28F92",
+	"flipX": true,
+	"anims": [
+		{
+			"indices": null,
+			"x": -11,
+			"y": -57,
+			"anim": "BF SING DOWN",
+			"loop": false,
+			"name": "singDOWN",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -50,
+			"y": 0,
+			"anim": "BF RIGHT MISS",
+			"loop": false,
+			"name": "singRIGHTmiss",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 56,
+			"y": -46,
+			"anim": "dodge DOWN",
+			"loop": false,
+			"name": "dodgeDOWN",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -32,
+			"y": 43,
+			"anim": "BF SING UP",
+			"loop": false,
+			"name": "singUP",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 16,
+			"y": -9,
+			"anim": "BF LEFT MISS",
+			"loop": false,
+			"name": "singLEFTmiss",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 1,
+			"y": -4,
+			"anim": "dodge UP0",
+			"loop": false,
+			"name": "dodgeUP",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -4,
+			"y": -6,
+			"anim": "BF idle dance",
+			"loop": false,
+			"name": "idle",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -47,
+			"y": -11,
+			"anim": "BF SING RIGHT",
+			"loop": false,
+			"name": "singRIGHT",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -13,
+			"y": -48,
+			"anim": "BF DOWN MISS",
+			"loop": false,
+			"name": "singDOWNmiss",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -31,
+			"y": -30,
+			"anim": "dodge RIGHT0",
+			"loop": false,
+			"name": "dodgeRIGHT",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 9,
+			"y": -13,
+			"anim": "BF SING LEFT",
+			"loop": false,
+			"name": "singLEFT",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -36,
+			"y": 47,
+			"anim": "BF UP MISS",
+			"loop": false,
+			"name": "singUPmiss",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 19,
+			"y": -37,
+			"anim": "dodge LEFT",
+			"loop": false,
+			"name": "dodgeLEFT",
+			"framerate": 24
+		}
+	],
+	"danceSteps": [
+		"idle"
+	],
+	"antialiasing": true,
+	"healthIconSteps": [
+		[
+			20,
+			0
+		],
+		[
+			0,
+			1
+		]
+	],
+	"scale": 1.5
+}
